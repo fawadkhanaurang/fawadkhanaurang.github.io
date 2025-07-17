@@ -118,3 +118,9 @@ header {
   display: inline-block;
   padding-bottom: 5px;
 }
+.underline-heading {
+  border-bottom: 2px solid #007acc;
+  display: inline-block;
+  padding-bottom: 5px;
+}
+
