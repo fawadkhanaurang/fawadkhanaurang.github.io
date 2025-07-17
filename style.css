@@ -76,6 +76,7 @@ nav ul li a {
 .profile-right {
   flex: 2 1 600px;
   padding-left: 20px;
+  text-align: justify;  /* <- This line justifies the text */
 }
 
 .profile-right h2 {
