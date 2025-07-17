@@ -64,7 +64,9 @@ header {
   flex: 1;
   border-right: 1px solid #ddd;
   padding-right: 30px;
-  text-align: left;
+  border-left: 1px solid #ddd;
+  padding-left: 30px;
+  text-align: Justify;
 }
 
 .profile-image {
